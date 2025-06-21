@@ -2,3 +2,5 @@ DOg
 CAt 
 Chicken
 Horse
+Parrot
+Monkey
