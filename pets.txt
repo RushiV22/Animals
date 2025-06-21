@@ -4,3 +4,4 @@ Chicken
 Horse
 Parrot
 Monkey
+Cow
